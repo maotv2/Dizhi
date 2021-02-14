@@ -8,7 +8,7 @@
 ------
 :globe_with_meridians: :point_right: 【海外地址】 ：https://www.4hu.tv/
 ------
-:checked_flag: :point_right: 【邮箱联系方式】 ：zhao4hu@mail.com
+:checked_flag: 【邮箱联系方式】 ：zhao4hu@mail.com
 ------
 :point_right: 加入 四（4hu）虎 电报频道  ：https://t.me/www4hutv
 ------
